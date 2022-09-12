@@ -6,3 +6,5 @@ Users can edit the search radius, keywords and address in the parameters code bl
 
 The program runs and users are prompted to enter an address, any street address will work fine. 
 The program will run and export a data list in a CSV file depending on your search query. 
+
+This program was inspired by Regita H. Zakia's Data scraping demonstration, but was tweaked and expanded upon for more functionality
